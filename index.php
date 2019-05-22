@@ -1,4 +1,4 @@
 <?php
 
-//merge conflict
+//merge conflict 2
 echo '123';
