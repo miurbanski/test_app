@@ -1,5 +1,6 @@
 <?php
 
+//merge conflict 2
 echo '123';
 echo '7891';
 
@@ -11,4 +12,6 @@ echo '151';
 
 
 
-// zmiana lokal
+
+
+//moja zmiana
