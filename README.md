@@ -1,5 +1,9 @@
 # test_app
 
-readme blablabla
+blabla test
 
-//merge conflict merge conflict 2
+
+//blabla zmiana przedemna
+
+
+//zmiana lokal
