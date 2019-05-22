@@ -3,3 +3,5 @@
 readme blablabla
 
 //merge conflict
+
+//moja zmiana
