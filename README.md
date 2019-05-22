@@ -2,6 +2,4 @@
 
 readme blablabla
 
-//merge conflict
-
-//moja zmiana
+//merge conflict merge conflict 2
